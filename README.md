@@ -1,5 +1,5 @@
 <h1>🔗 InstaBytes API</h1>
-<img loading="lazy" src="https://img.shields.io/github/stars/DanielSouza2005?style=social"/>
+<img loading="lazy" src="https://img.shields.io/github/stars/DanielSouza2005/insta_bytes-API?style=social"/>
 
 <h2>💡 Sobre </h2>
 <p> API desenvolvida durante a Imersão Backend da Alura, responsável por retornar e manipular dados de posts para a página do InstaBytes. </p>
